@@ -2,7 +2,7 @@ Hi 👋 My name is Andrew-Samoilov
 ================================
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React, TS, JS
-- 💞️ Now I'm looking for a new job.
+- 💞️ Now I'm looking for a new job
 - ✉️  You can contact me at [andrew.samoilov1@gmail.com](mailto:andrew.samoilov1@gmail.com)
 
 ### Skills
