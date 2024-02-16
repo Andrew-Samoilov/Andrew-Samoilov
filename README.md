@@ -1,13 +1,13 @@
 Hi 👋 My name is Andrew-Samoilov
 ================================
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Next, TS, React, JS
-- 💞️ Now I'm looking for a new job
-- ✉️  You can contact me at [andrew.samoilov1@gmail.com](mailto:andrew.samoilov1@gmail.com)
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Next, React.
+- 💞️ Now I'm looking for new exciting job opportunities.
+- ✉️ You can contact me at [andrew.samoilov1@gmail.com](mailto:andrew.samoilov1@gmail.com)
 
 ### Skills
 
-<p align="left">
+<p>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" 
 					alt="nextjs" width="36" height="36" />
@@ -48,23 +48,13 @@ Hi 👋 My name is Andrew-Samoilov
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
             width="36" height="36" alt="Express" />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-            width="36" height="36" alt="MySQL" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-            width="36" height="36" alt="Figma" />
-    </a>
-    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
-            width="36" height="36" alt="Ethereum" />
-    </a>
 </p>
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/andrii.samoylov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Andrew-Samoilov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/andriy_samoylov777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andrew-samoilov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+	<a href="https://www.linkedin.com/in/andrew-samoilov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+	<a href="https://www.facebook.com/andrii.samoylov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/andriy_samoylov777" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
 <!---
 Andrew-Samoilov/Andrew-Samoilov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
