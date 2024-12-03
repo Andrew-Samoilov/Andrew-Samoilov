@@ -1,7 +1,7 @@
 Hi 👋 My name is Andrew-Samoilov
 ================================
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Next, React.
+- 🌱 I’m currently learning Strapi & Next.
 - 💞️ Now I'm looking for new exciting job opportunities.
 - ✉️ You can contact me at [andrew.samoilov1@gmail.com](mailto:andrew.samoilov1@gmail.com)
 
