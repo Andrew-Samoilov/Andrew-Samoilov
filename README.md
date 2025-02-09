@@ -1,9 +1,9 @@
-Hi 👋 My name is Andrew-Samoilov
-================================
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Strapi & Next.
-- 💞️ Now I'm looking for new exciting job opportunities.
-- ✉️ You can contact me at [andrew.samoilov1@gmail.com](mailto:andrew.samoilov1@gmail.com)
+Hi 👋 My name is Andrew Samoilov  
+================================  
+- 🚀 I’m passionate about development, especially fast and scalable solutions.  
+- 🔥 Progressing in Strapi, mastering Next.js 15 and Tailwind CSS 4.  
+- 💞️ Now I'm looking for an opportunity for [Tech-Vibe.Agency](https://www.tech-vibe.agency/).  
+- ✉️ You can contact me at [office@tech-vibe.agency](mailto:office@tech-vibe.agency).
 
 ### Skills
 
