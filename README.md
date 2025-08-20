@@ -1,9 +1,8 @@
 Hi 👋 My name is Andrew Samoilov  
 ================================  
-- 🚀 I’m passionate about development, especially fast and scalable solutions.  
-- 🔥 Progressing in PostgreSQL, mastering Next.js 15 and Tailwind CSS 4, Strapi.  
-- 💼 Now I'm looking for an opportunity for [Tech-Vibe.Agency](https://www.tech-vibe.agency/).  
-- ✉️ You can contact me at [office@tech-vibe.agency](mailto:office@tech-vibe.agency).
+- 🚀 T-shaped professional with deep expertise in tyres & wheels, and broad skills in programming, usability, go-to-market, and sales. Currently improving **Shina Mix**, a live e-commerce tyre shop built with Next.js, Prisma, and PostgreSQL.
+- 🔥 Progressing in PostgreSQL, mastering Next.js 15 and Tailwind CSS 4.  
+- ✉️ Reach me at [veprsag@gmail.com](mailto:veprsag@gmail.com).
 
 ## Skills
 
