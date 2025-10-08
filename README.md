@@ -1,6 +1,6 @@
 Hi 👋 My name is Andrew Samoilov  
 ================================  
-- 🚀 T-shaped professional with deep expertise in tyres & wheels, and broad skills in programming, usability, go-to-market, and sales. Currently improving **Shina Mix**, a live e-commerce tyre shop built with Next.js, Prisma, and PostgreSQL.
+- 🚀 T-shaped professional with deep expertise in tyres & wheels, and broad skills in programming, usability, go-to-market, and sales. Currently improving [Shina Mix](https://shinamix.com.ua/), a live e-commerce tyre shop built with Next.js, Prisma, and PostgreSQL.
 - 🔥 Progressing in PostgreSQL, mastering Next.js 15 and Tailwind CSS 4.  
 - ✉️ Reach me at [veprsag@gmail.com](mailto:veprsag@gmail.com).
 
